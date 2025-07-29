@@ -1,6 +1,6 @@
 # 🚀 Deepu's DSA Journey
 
-Hi! I'm **Deepak**, a 2nd-year B.Tech student exploring **Data Structures and Algorithms** using **C++**.  
+Hi! I'm **Deepak**, a 2nd-year student exploring **Data Structures and Algorithms** using **C++**.  
 This repository tracks my daily progress, problem solutions, and notes as I work toward becoming a better problem solver. ✨
 
 ---
