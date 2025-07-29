@@ -28,7 +28,7 @@ This repository tracks my daily progress, problem solutions, and notes as I work
 
 | 📆 Day | 📌 Topic    | ✅ Problems |
 |--------|------------|------------|
-| Day 1  | Strings     | 4 problems solved |
+| Day 1  | Strings     | 2 problems solved |
 
 
 > I will update this table regularly 🚧
