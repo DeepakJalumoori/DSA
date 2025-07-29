@@ -28,9 +28,8 @@ This repository tracks my daily progress, problem solutions, and notes as I work
 
 | 📆 Day | 📌 Topic    | ✅ Problems |
 |--------|------------|------------|
-| Day 1  | Arrays     | 2 problems solved |
-| Day 2  | Strings    | 3 problems solved |
-| Day 3  | HashMaps   | Coming soon...    |
+| Day 1  | Strings     | 4 problems solved |
+
 
 > I will update this table regularly 🚧
 
